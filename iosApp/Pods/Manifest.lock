@@ -1,0 +1,16 @@
+PODS:
+  - MobileCommon (1.0)
+
+DEPENDENCIES:
+  - MobileCommon (from `../mobile-common/common-ios`)
+
+EXTERNAL SOURCES:
+  MobileCommon:
+    :path: "../mobile-common/common-ios"
+
+SPEC CHECKSUMS:
+  MobileCommon: ac52fe1285741ff43a445c599a9cb963e1ed937b
+
+PODFILE CHECKSUM: f46de735e442c5bf6cfe5fdbcd59423c53fd1992
+
+COCOAPODS: 1.11.3
